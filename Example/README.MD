@@ -22,12 +22,13 @@ We compare the two approaches by looking at:
 ## 🧪 Experiments
 
 ### **Spatial Distribution of HF and LF data**
+
 This figure depicts the spatial distribution of the LF and HF data.
 In blue the HF spatial location, in red HF points. Each spatial point contains a time-series 
-of 100 observations. In blue the correlation coefficient between the LF time-series and the closest HF time-series.
+of 100 observations. In blue the correlation coefficients between the LF time-series and the closest HF time-series.
 We highlighted with a "star" the test station.
 
-![Experiment 1 Results](ClassicVSRobust_Nooutliers.png)
+![SP-Dist](SpatialDistribution_of_stations.png)
 
 
 ### **Experiment 1 — Clean LF data**
