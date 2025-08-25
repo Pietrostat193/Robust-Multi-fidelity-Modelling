@@ -3,6 +3,8 @@
 This repository contains experiments comparing a **classic multi-fidelity Gaussian process (MF-GP)** model with a **robust multi-fidelity Gaussian process (Robust MF-GP)**.  
 The goal is to evaluate whether the robust formulation improves predictions, especially when low-fidelity (LF) data contain anomalies or extreme values.
 
+The script "Comaprison_ClassicvsRobust.m" run a comparison between the two approaches. The utilities folder contains the related functions.
+
 ---
 
 ## 🔍 Main Idea
