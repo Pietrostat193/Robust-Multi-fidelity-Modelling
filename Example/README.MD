@@ -33,7 +33,7 @@ Even here, the robust model shows slightly better interpolation quality.
 Here, we deliberately introduce **extreme anomalies** into the LF data (multiplying part of the dataset by a large factor).  
 The classic MF-GP is strongly affected, while the robust MF-GP maintains much better predictive performance.  
 
-![Experiment 2 Results](images/ClassicVSRobust_outliers.png)
+![Experiment 2 Results](ClassicVSRobust_outliers.png)
 
 ---
 
