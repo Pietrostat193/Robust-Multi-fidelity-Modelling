@@ -25,7 +25,7 @@ We compare the two approaches by looking at:
 In this case, the LF data are relatively well-behaved (no extreme anomalies).  
 Even here, the robust model shows slightly better interpolation quality.  
 
-![Experiment 1 Results](ClassicVSRobust_Noutliers.png)
+![Experiment 1 Results](ClassicVSRobust_Nooutliers.png)
 
 ---
 
