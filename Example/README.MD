@@ -45,8 +45,10 @@ The classic MF-GP is strongly affected, while the robust MF-GP maintains much be
 
 ## 📂 Repository Structure
 - `ModelInfo.mat` — Data object with training and testing sets.  
-- `*.m` — MATLAB scripts to run the experiments.  
-- `images/` — Folder containing the result plots (`experiment1.png`, `experiment2.png`).  
+- `*Comparison_ClassicvsRobust.m` — MATLAB scripts to run the experiments.  
+- `ClassicMF_utilities/` — Folder containing with the utilities functions for classic MF 
+- `RobustMF_utilities/` — Folder containing with the utilities functions for robust MF 
+
 
 ---
 
