@@ -10,10 +10,10 @@ This script runs a Monte-Carlo study comparing a **classic multi-fidelity GP** a
    - MATLAB R2021a+ (recommended)
    - Optimization Toolbox (`fminunc`)
 2. **Utilities on path** (update paths in the script to match your machine):
-   - `Example\ClassicMF_utilities`
-   - `Example\RobustMF_utilities`
+   - `Robust-Multi-fidelity-Modelling\Example\ClassicMF_utilities`
+   - `Robust-Multi-fidelity-Modelling\Example\RobustMF_utilities`
 3. **Run the script.**
-     - `Simulations.m`
+     - `Robust-Multi-fidelity-Modelling\PreliminaryExperiment\Simulations.m`
 
 It will create:
 
