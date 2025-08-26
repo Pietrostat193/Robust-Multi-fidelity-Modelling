@@ -49,4 +49,8 @@ Deterministic seed per run:
 scenario_id = running index over (m,a) pairs starting at 1
 seed        = 1000*scenario_id + r
 
+## Results
+
+![Alt text](Results_simulationRobust.png)
+
 
