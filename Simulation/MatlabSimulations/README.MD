@@ -1,4 +1,4 @@
-# Robust vs Classic Multi-Fidelity GP — Simulation README
+# Robust vs Classic Multi-Fidelity GP — Simulation 
 
 This script runs a Monte-Carlo study comparing a **classic multi-fidelity GP** against a **robustified objective** under controlled low-fidelity (LF) distortions. The experiment is fault-tolerant: failed optimizer runs are **skipped** via `try/catch`, and only successful runs are saved.
 
