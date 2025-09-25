@@ -49,3 +49,4 @@ Purpose: **Fit once with classic likelihood**, then **sweep many fixed \(\delta\
 ## Some results
 
    
+![Short alt text](Variability_prediction_test_set.png "Predictions under different delta")
