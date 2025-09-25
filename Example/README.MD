@@ -16,7 +16,7 @@ All other folders provide the shared utilities used by the examples.
 ├─ ClassicMF_utilities/     # Classic MF-GP functions (likelihood, prediction, kernels, etc.)
 ├─ RobustMF_utilities/      # Robust MF-GP pieces (Huber loss, robust objective, weights)
 ├─ Simulation_utilities/    # Data simulators, distortion functions, helpers for toy setups
-├─ ToyExample/              # WORKING EXAMPLE: basic MF-GP on a toy dataset
+├─ ToyExample/              # WORKING EXAMPLE: basic MF-GP vs Robust on a toy dataset
 ├─ Delta_sensitivity/       # WORKING EXAMPLE: sweep δ and visualize sensitivity
 └─ README.md                # This file
 
