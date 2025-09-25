@@ -12,7 +12,7 @@ All other folders provide the shared utilities used by the examples.
 
 
 ## Repository structure
-
+  ```text
 ├─ ClassicMF_utilities/     # Classic MF-GP functions (likelihood, prediction, kernels, etc.)
 ├─ RobustMF_utilities/      # Robust MF-GP pieces (Huber loss, robust objective, weights)
 ├─ Simulation_utilities/    # Data simulators, distortion functions, helpers for toy setups
