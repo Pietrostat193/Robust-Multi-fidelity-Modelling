@@ -44,3 +44,8 @@ Purpose: **Fit once with classic likelihood**, then **sweep many fixed \(\delta\
 3. Run:
    ```matlab
    Test_delta_sen.m
+
+
+## Some results
+
+   
