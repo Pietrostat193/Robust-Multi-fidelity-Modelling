@@ -10,6 +10,7 @@ All other folders provide the shared utilities used by the examples.
 
 ---
 
+
 ## Repository structure
 
 ├─ ClassicMF_utilities/     # Classic MF-GP functions (likelihood, prediction, kernels, etc.)
