@@ -15,6 +15,6 @@ function HL = robustObjective2Dsp(hyp)
     scale = median(abs(r)) / 0.6745;
     delta = 1.345 * scale;
 
-    loss_vals = huberLoss(r, delta);
+    loss_vals = huberLoss2(r, delta);
     HL = sum(loss_vals);
 end
