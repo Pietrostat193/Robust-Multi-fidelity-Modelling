@@ -6,15 +6,13 @@ This directory contains summary statistics and time series visualizations of PM2
 
 ## 📁 Folder Structure
 
-figures/
-│
-├── summary_by_station_id.csv
-├── summary_by_fidelity.csv
-└── TimeSeriesByStation/
-├── Station_#1.png
-├── Station_#2.png
-├── ...
-└── Station_#N.png
+- figures/
+  - summary_by_station_id.csv
+  - summary_by_fidelity.csv
+  - TimeSeriesByStation/
+    - Station_001.png
+    - Station_002.png
+    - Station_NNN.png
 
 
 ---
@@ -63,10 +61,10 @@ Contains PNG plots showing **daily (or hourly) PM2.5 concentrations during 2021*
 
 Each file is named according to its station identifier:
 
-TimeSeriesByStation/
-├── Station_#1.png # Time series of PM2.5 for Station #1
-├── Station_#2.png # Time series of PM2.5 for Station #2
-└── ...
+- TimeSeriesByStation/
+  - Station_#1.png
+  - Station_#2.png
+  - Station_#N.png
 
 Each plot includes:
 - X-axis: Date (from 2021-01-01 to 2021-12-31)
