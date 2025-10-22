@@ -53,6 +53,21 @@ Contains summary statistics of PM2.5 measurements **grouped by data fidelity cla
 
 ---
 
+### **3. senseBox-home.png**
+
+An illustrative image of the **senseBox:home** device — the sensor kit used for collecting environmental data, including **PM2.5** measurements via the **SDS011** optical particle sensor.  
+This image provides visual context for the hardware setup behind the data used in this project.
+
+![senseBox-home](senseBox-home.png)
+
+**Details:**
+- **Device:** senseBox:home  
+- **Sensor Module:** SDS011 (Nova PM sensor)  
+- **Measured Parameter:** PM2.5 (µg/m³)  
+- **Purpose:** To visualize the hardware used for community-based air quality monitoring.
+
+---
+
 ## 📈 Time Series Visualizations
 
 ### **Folder: `TimeSeriesByStation/`**
